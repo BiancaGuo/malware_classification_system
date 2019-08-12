@@ -1,0 +1,17 @@
+.form-group{
+    width:400px;
+    margin-left:10%;
+    display:block;
+}
+
+.btn.btn-primary{
+    margin-left:10%;
+}
+
+.msg{
+    text-align: center;
+    display: block;
+    width: 300px;
+    margin-left: 37%;
+    font-size:22px;
+}
